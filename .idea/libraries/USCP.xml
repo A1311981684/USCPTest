@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="USCP">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../USCP/out/artifacts/USCP_jar/USCP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
